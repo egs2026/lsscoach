@@ -1,0 +1,9 @@
+priority,category,impact,domain,rule
+1,Accessibility,CRITICAL,ux,color-contrast
+2,Touch & Interaction,CRITICAL,ux,touch-target-size
+3,Performance,HIGH,ux,image-optimization
+4,Layout & Responsive,HIGH,ux,viewport-meta
+5,Typography & Color,MEDIUM,typography,line-height
+6,Animation,MEDIUM,ux,duration-timing
+7,Style Selection,MEDIUM,style,style-match
+8,Charts & Data,LOW,chart,chart-type
